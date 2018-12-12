@@ -1,0 +1,80 @@
+Netscan; FRANCE ; http://www.netscan.fr/cgi-bin/netscgi?nbaff=40&x=21&y=24&text=
+QuiQuoiOu; FRANCE ; http://quiquoiou.wanadoo.fr/quiquoiou/bin/quiquoiou.cgi?flag=2&first=1&domaine=1&rech=1&motscles=
+sharelook; FRANCE ; http://www.sharelook.fr/cgi-bin/SDB_search.cgi?PATH=&SUBMIT=Recherche&DOC=&CHROOT=&CHHOST=&HOSTNAME=Sharelook.fr&KEYWD=
+SSSplash; FRANCE ; http://www.sssplash.fr/sssplash/Sssplash?Rechercher.x=19&Rechercher.y=36&search=
+Voilà; FRANCE ; http://www.voila.fr/voila?medor=web&orthographe=stricte&fichier=*&country=&affichage=complet&reponses=50&mots=
+Yellow Web; FRANCE ; http://www.yweb.com/cgi-bin/ywebsrch.pl?V=f&O=0&M=A&L=W&N=on&T=on&P=
+Altavista-Fr; FRANCE ; http://www.altavista.fr/cgi-bin/query?pg=q&kl=fr&stype=stext&q=
+Carrefour Fr  ; FRANCE ; http://resultats.carrefour.net/recherche?r=&recherche.x=29&recherche.y=8&s=
+C-Trouvé; FRANCE ; http://hot.ctrouve.com/com/recherch.exe?rec=
+Ecila; FRANCE ; http://ecila.ceic.com/cgi-bin/frameSFgate?database=fr&language=french&maxhits=100&text=
+Euroseek  ; FRANCE ; http://www.euroseek.net/query?iflang=uk&domain=world&lang=world&query=
+Excite-Fr; FRANCE ; http://fr.excite.com/search.gw?look=excite_fr&c=web.fr&trace=a&search=
+Francité  ; FRANCE ; http://francite.infinit.net/i3dpro/francite.exe/q?quelrech=et&ortho=exact&name=
+GSF; FRANCE ; http://www.jetmultimedia.fr/cgi-bin/search_gsf?typ=cle&max=50&q=
+Inference Find FR ; FRANCE ; http://www.infind.com/infind_fr/infind_fr.exe?time=7&query=
+Infoseek-Fr; FRANCE ; http://www.infoseek.com/Titles?oq=site%3Afr&sv=FR&lk=noframes&col=WW%2Ccat_RES&nh=10&qt=
+La Toile du Québec  ; FRANCE ; http://recherche.toile.qc.ca/cgi-bin/recherche?lang=fr&range=0-19&operator=and&query=
+Le Guide MSN; FRANCE ; http://leguide.fr.msn.com/leguide/leguide.asp?color=3&ca=ok&cl=ok&li=ok&cot=xxx&op=et&co=ra&to=&ct=&s=
+Lokace Fr  ; FRANCE ; http://recherche.lokace.com/cgi-bin/lokace?submit2=Rechercher&DATA=ALLW&MOTCLEF=
+Lycos Fr ; FRANCE ; http://www.lycos.fr/cgi-bin/pursuit?cat=fr&matchmode=and&x=22&y=11&query=
+Microsoft-Fr; FRANCE ; http://search.microsoft.com/france/results.asp?nq=TRUE&SName=&SPath=&SCatalog=&Boolean=PHRASE&Finish=Rechercher&intCat=10&qu=
+MSN Search; FRANCE ; http://search.fr.msn.com/results.asp?color=3&RS=CHECKED&CO=20&UDo=&ULo=&LA=french&TP=Must&DF=&UN=doc&Form=SMCA&CY=fr&MT=
+Nomade Fr  ; FRANCE ; http://rechercher.nomade.fr/recherche.asp?f=N&l=E&x=58&y=16&s=
+Yahoo Fr ; FRANCE ; http://search.yahoo.fr/search/fr?p=
+Google-Linux ; Linux ; http://www.google.com/linux?num=40&sa=Google+Search&q=
+Linux Mall     ; Linux ; http://www.linuxmall.com/cgi-bin/TextSrch.cgi?EXPR=
+Linux Online   ; Linux ; http://www.linux.org/cgi-bin/search.cgi?site=On&match=20&page=1&query=
+Info Mac       ; MAC ; http://hyperarchive.lcs.mit.edu/cgi-bin/NewSearch?key=
+Mac Zone       ; MAC ; http://www.search.zones.com/search/bin/searchinterface.dll?result_template=searchinterface_mac.tem&stemming=y&num_rows=50&stemming=y&Sort_Field=Mfr_Name&fieldName=section_path&fieldmatch0=N/Mac_Zone/&value=
+MacNN  ; MAC ; http://209.143.231.219:80/fastsearch?Type=Search&Template=MacNN&WebSite=MacNN&Category=Hardware&SearchFor=
+MacUpdate  ; MAC ; http://www.macupdate.com/subcategories.lasso?-db=software&-layout=search&-op=bw&-maxRecords=25&-sortfield=Title&-search=contains@-noResults=/pub/macupdate/error.lasso&keywords=
+MacWorld  ; MAC ; http://macworld.zdnet.com/search/url-iatoc?NS-collection=News.98&NS-collection=News.97&NS-collection=Reviews.98&NS-collection=Reviews.97&NS-collection=Feature.98&NS-collection=Feature.97&NS-collection=Column.98&NS-collection=Column.97&NS-collection=Netsmart&NS-collection=Online.Features&NS-collection=Media&NS-collection=Gameline&NS-collection=Daily.News&NS-search-type=Free%2bText&NS-max-records=20&NS-query=
+Byte  ; Mag ; http://www.byte.com/search?queryText=
+Accufind ; META ; http://www.accufind.com/bin/Search?RL=0&RH=39&keywords=
+AskJeeves  ; META ; http://www.askjeeves.com/AskJeeves.asp?qSource=0&site_name=Jeeves&metasearch=yes&ask=
+Cyber411  ; META ; http://www.cyber411.com/cgi-bin/nph-search.cgi?AV=on&DN=on&EX=on&timeout=30&connects=5&GX=on&G2=on&HB=on&LS=on&LY=on&MG=on&NL=on&PS=on&SC=on&TS=on&WC=on&WU=on&YH=on&query=
+Dogpile  ; META ; http://ms1.dogpile.com/search?fs=web&ss=stop&to=twenty&q=
+Dogpile  ; META ; http://rover.dogpile.com/texis/search?fs=web&ss=stop&to=twenty&q=
+Highway61  ; META ; http://www.highway61.com/nph-seek.cgi?bool=and&new_wins=on&speed=reasonable&hits=lots&yahoo_cats=on&armadillo=5&s=wwwyx&dom=1&c=31055&string=
+Mamma  ; META ; http://www.mamma.com/cgi-bin/parsearch2?lang=1&timeout=6&summaries=on&qtype=0&query=
+DaveCentral  ; SOFT ; http://www.davecentral.com/cgi-bin/search.pl?query=
+Filefarm ; SOFT ; http://search.internet.com/cgi-bin/search.mydesktop.com?method=mainQuery&DB39=FileFarm&query=
+Filez  ; SOFT ; http://search.filez.com/search.cgi?type=4&search=1&rows=20&key=
+Freew. Publish. Site  ; SOFT ; http://www.katho.be/cgi-bin/search2.pl?boolean=AND&case=Insensitive&terms=
+FreewareHome  ; SOFT ; http://www.freewarehome.com/cgi-bin/swishsearch/search.pl?swishindex=%2Fusr%2Fbin%2Fswish%2Findex.swish&keywords=
+MacinSearch  ; SOFT ; http://macinsearch.com/find.cgi?x=62&y=7&BEGIN=0&SEARCH=
+Pc Zone        ; SOFT ; http://www.search.zones.com/search/bin/searchinterface.dll?result_template=searchinterface_pc.tem&stemming=y&num_rows=50&stemming=y&Sort_Field=Mfr_Name&fieldName=section_path&fieldmatch0=N/PC_Zone/&value=
+PcGame  ; SOFT ; http://www.pcgame.com/finder/search.cgi?s=
+Pigeons.net  ; SOFT ; http://pigeons.net/cgi-bin/dbsearch/dbsearch_s.cgi?CONFFILE=/drv1/web/sites/web751c5/cgi-bin/dbsearch/dbsearch.cfg&discript=
+PricePulse ; SOFT ; http://www.pricepulse.com/search/shell.cfm?p=search&tab=home&key=
+Shareware All ; SOFT ; http://search.shareware.com/code/engine/Find?logop=and&cfrom=quick&orfile=True&hits=25&category=All-Categories&search=
+Shareware Mac ; SOFT ; http://search.shareware.com/code/engine/Find?logop=and&cfrom=quick&orfile=True&hits=25&category=Macintosh&search=
+Shareware Win ; SOFT ; http://search.shareware.com/code/engine/Find?logop=and&cfrom=quick&orfile=True&hits=25&category=MS-Windows%28all%29&search=
+SoftSeek  ; SOFT ; http://search02.softseek.com/cgi-bin/search.cgi?seekindex=index&maxresults=025&cb=&keywords=
+Tucows  ; SOFT ; http://search.tucows.com/cgi-bin/webglimpse/webhome/server/htdocs/search?maxlines=20&maxfiles=50&whole=off&errors=0&case=off&query=
+VersionTracker  ; SOFT ; http://www.versiontracker.com/search.cgi?SearchType=Search&SearchIn=Both&bool=and&Sort=Date&SearchFor=
+WebAttack  ; SOFT ; http://www.webattack.com/cgi-bin/se/search.pl?Range=All&Format=Standard&submit.x=35&submit.y=3&Terms=
+WebSitez  ; SOFT ; http://search.websitez.com/search.cgi?search=1&type=1&submit1=Find&key=
+AOL            ;WORLD; http://netfind.aol.com/search.gw?lk=excite_netfind2_us&nrm=n&pri=on&xls=b&search=
+Northernlight  ;WORLD; http://www.northernlight.com/nlquery.fcg?cb=0&us=025&sb.x=25&sb.y=20&qr=
+Open Dir Prj ;WORLD; http://dmoz.org/cgi-bin/search?search=
+Starting Point  ;WORLD; http://www.stpt.com/cgi-bin/pwrsrch/altavista.cgi?query=
+AltaVista  ;WORLD; http://www.altavista.com/cgi-bin/query?pg=q&what=web&fmt=.&q=
+Excite  ;WORLD; http://search.excite.com/search.gw?trace=1&look=excite_netscape_us&sorig=netscape&search=
+Google ;WORLD; http://www.google.com/search?num=40&q=
+Goto  ;WORLD; http://www.goto.com/d/search/?Keywords=
+Hotbot  ;WORLD; http://www.hotbot.com/default.asp?MT=
+Identify  ;WORLD; http://www.identify.com/identify.cgi?st=p&w=
+Inference Find  ;WORLD; http://www.infind.com/infind/infind.exe?time=7&query=
+Infomak        ;WORLD; http://search.infomak.com/?method=and&words=
+Infoseek  ;WORLD; http://www.infoseek.com/Titles?qt=
+Lycos  ;WORLD; http://www-english.lycos.com/cgi-bin/pursuit?matchmode=and&cat=lycos&query=
+Magellan  ;WORLD; http://www.mckinley.com/search.gw?c=web&look=magellan&search=
+Matilda        ;WORLD; http://www.aaa.com.au/matilda/nsearch.cgi?query=
+Metacrawler  ;WORLD; http://www.metacrawler.com/crawler?method=0&target=&region=0&rpp=20&timeout=5&hpe=10&general=
+Savvy Search  ;WORLD; http://williams.cs.colostate.edu:1969/nph-search?classic=on&t1=x&t2=x&t3=x&t4=x&t5=x&t6=x&t7=x&t8=x&t9=x&t10=x&Boolean=AND&Hits=10&Mode=MakePlan&df=normal&AutoStep=on&KW=
+Search  ;WORLD; http://www.search.com/Infoseek/1,135,0,0200.html?QUERY=
+Snap  ;WORLD; http://home.snap.com/search/directory/results/1,61,home-0,00.html?category=0-0-WW&keyword=
+WebCrawler  ;WORLD; http://webcrawler.com/cgi-bin/WebQuery?searchText=
+Yahoo  ;WORLD; http://search.yahoo.com/search?p=

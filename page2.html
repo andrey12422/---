@@ -1,0 +1,118 @@
+<html>
+<html>
+ <head>
+ 
+  <title>Металоприем</title>
+  <style>
+   h1 
+  {font-family: fantasy
+  }
+   body {
+    background: url(Фонмет.jpg) no-repeat;
+    background-size: 100%;
+   }
+  </style>
+  <link rel = "stylesheet" href = "style.css">
+<center> <div><img src="rel.png" width="50" height="50"></div> </center>
+ <h1> <center>
+ <font 
+    size=10 > <b>  Прайс </b> </font>
+ </center> </h1> <div class="widget">
+  <h3 class="widget-title" >Меню</h3>
+ <ul class="widget-list">
+    <li><a href="мета.html">Главная</a></li>
+    <li><a href="page2.html">Прайс</a></li>
+    <li><a href="page3.html">Контакты</a></li>
+    <li><a href="page4.html">О нас</a></li>
+  </ul>
+</div>
+ 
+<div> <center>
+ <table  border background="pap.jpg" width=50% height=70%>
+<caption> </caption>
+<script type="text/javascript">
+var lastResFind=""; // последний удачный результат
+var copy_page=""; // копия страницы в ихсодном виде
+function TrimStr(s) {
+     s = s.replace( /^\s+/g, '');
+  return s.replace( /\s+$/g, '');
+}
+function FindOnPage(inputId) {//ищет текст на странице, в параметр передается ID поля для ввода
+  var obj = window.document.getElementById(inputId);
+  var textToFind;
+ 
+  if (obj) {
+    textToFind = TrimStr(obj.value);//обрезаем пробелы
+  } else {
+    alert("Введенная фраза не найдена");
+    return;
+  }
+  if (textToFind == "") {
+    alert("Вы ничего не ввели");
+    return;
+  }
+  
+  if(document.body.innerHTML.indexOf(textToFind)=="-1")
+  alert("Ничего не найдено, проверьте правильность ввода!");
+  
+  if(copy_page.length>0)
+        document.body.innerHTML=copy_page;
+  else copy_page=document.body.innerHTML;
+
+  
+  document.body.innerHTML = document.body.innerHTML.replace(eval("/name="+lastResFind+"/gi")," ");//стираем предыдущие якори для скрола
+  document.body.innerHTML = document.body.innerHTML.replace(eval("/"+textToFind+"/gi"),"<a name="+textToFind+" style='background:red'>"+textToFind+"</a>"); //Заменяем найденный текст ссылками с якорем;
+  lastResFind=textToFind; // сохраняем фразу для поиска, чтобы в дальнейшем по ней стереть все ссылки
+  window.location = '#'+textToFind;//перемещаем скрол к последнему найденному совпадению
+ } 
+</script>
+<body>
+<h2>Поик товара</h2>
+<input type="text" id="text-to-find" value=""> 
+<input type="button" onclick="javascript: FindOnPage('text-to-find'); return false;" value="Искать"/>
+<br/><i>Введите слово или фразу для поиска.</i>
+<hr/>
+
+<table border='2' cellpadding='20'>
+ 
+
+<tr>
+<td> Бытовой лом</td>
+<td> 11,00 ₽ - 14,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Черный	</td>
+<td> 7,77 ₽ - 13,22 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Медь	 </td>
+<td> 247,00 ₽ - 331,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Алюминий </td>
+<td> 48,00 ₽ - 87,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Нержавейка	 </td>
+<td> 46,00 ₽ - 64,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Бронза	</td>
+<td> 159,00 ₽ - 200,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Латунь	 </td>
+<td> 159,00 ₽ - 200,00 ₽ за 1 кг.</td>
+</tr>
+<tr>
+<td> Свинец	 </td>
+<td> 76,00 ₽ - 90,00 ₽ за 1 кг.</td>
+
+
+</tr>
+</table> 
+</center> </div>
+ </body>
+  <p align="right"><a href="https://my.mail.ru/mail/andrey-vasilev-99/">metal@mail.ru</a></p>
+</html>
+</html>

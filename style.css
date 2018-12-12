@@ -1,0 +1,53 @@
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 100%;
+	margin:0;
+	padding:0;
+	background-color : #ffffff;
+	
+}
+{ 
+background: url('бумага.jpg'); 
+background-repeat: no-repeat; 
+} 
+
+p,h1,h2,h3,main {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	color: black;
+}
+
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 250%;
+
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 160%;
+
+	font-weight: bold;
+}
+
+
+h3 {
+
+	font-size: 190%;
+
+	
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: red;
+
+
+}
+a:hover{
+text-decoration: underline;
+}
+
+

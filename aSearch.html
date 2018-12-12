@@ -1,0 +1,197 @@
+<html>
+<head>
+<title>JavaSide.com : applets / free Java search applet</title>
+<LINK REL=STYLESHEET TYPE='text/css' HREF='./rbl_1.css'>
+</head>
+
+<body bgcolor=#FFFFFF>
+
+<TABLE CELLPADDING=3 width="100%" BGCOLOR=4040A0>
+<TR><TH class="tit">
+	<FONT SIZE="+3" class="tit" COLOR=D0F0FF>Java aSearch V 1.00</FONT>
+</TH></TR></TABLE>
+<BR>
+<CENTER>
+
+<A NAME="_0">
+<TABLE BGCOLOR=#D0F0FF><TR><TD>
+	<FONT SIZE=1>
+	[
+	<A HREF="http://www.javaside.com/j_tscrol.html">tScroll</A> |
+	<A HREF="http://www.javaside.com/j_tonglet.html">tOnglet</A> |
+	<A HREF="http://www.javaside.com/j_tliste.html">tListe</A> |
+	<A HREF="http://www.javaside.com/j_tcaldate.html">tCalDate</A> |
+	<A HREF="http://www.javaside.com/j_teurocalc.html">tEuroCalc</A> |
+	<A HREF="http://www.javaside.com/j_tcalevent.html">tCalEvent</A> |
+	<A HREF="http://www.javaside.com/j_tbbar.html">tBBar</A> |
+	<A HREF="http://www.javaside.com/j_tchart.html">tChart</A> |
+	<A HREF="http://www.javaside.com/j_tfunction.html">tFunction</A> |
+	<A HREF="http://www.javaside.com/j_jvmine.html">Winmine</A> |
+	<A HREF="http://www.javaside.com/j_tcount.html">tCount</A> |
+	<A HREF="http://www.javaside.com/j_butto.html">tButton</A> 
+	]
+	</FONT>
+</TD></TR></TABLE>
+<TABLE><TR><TD BGCOLOR=D0F0FF>
+	<FONT SIZE=1>
+	[ 
+	<A HREF="http://www.javaside.com/search/" TARGET=_new>Search</A> |
+	<A HREF="http://www.javaside.com/us/index.html" TARGET=_top>Home Page </A> |
+	<A HREF="http://www.javaside.com/fr/index.html" TARGET=_top>Home Page FR</A>
+	]
+	</FONT>
+</TD></TR></TABLE>
+<BR>
+<HR>
+
+<TABLE WIDTH="95%"><TR><TH COLSPAN=2 BGCOLOR=#D0F0FF>INDEX</TH></TR>
+<TR><TD class="b1">
+<UL>
+<FONT SIZE=+1 class="b1">
+	<ul>
+	<li><A HREF="index.html#_A">Description</A></li>
+	<li><A HREF="index.html#_2">HTML Source</A></li>
+	<li><A HREF="index.html#_3">Parmeters</A></li>
+	<li><A HREF="index.html#_4">How to use</A></li>
+	<li><A HREF="index.html#_5">History</A></li>
+	<li><A HREF="index.html#_6">Download</A></li>
+	</ul>
+</FONT>
+</UL>
+</TD>
+<TD WIDTH="40%">
+
+<applet
+    code="aSearch.class"
+    codebase="./"
+    archive="./aSearch.jar"
+    width="250"
+    height="80">
+    <param name="file"		value="./engines.csv">
+    <param name="bgcolor"	value="183">
+    <param name="button_cF"	value="153">
+    <param name="button_cB"	value="16777113">
+    <param name="list1_cF"	value="204">
+    <param name="list1_cB"	value="13434879">
+    <param name="list2_cF"	value="204">
+    <param name="list2_cB"	value="13434879">
+    <param name="text_cF"	value="204">
+    <param name="text_cB"	value="13434879">
+</applet>
+
+</TD>
+</TR></TABLE>
+<P>
+
+<A NAME="_A"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>Description</TH></TR>
+<TR><TD class="b0">
+aSearch is a little <b>Search Applet</b>. This size is very small (4 or 7 Ko).<br>
+aSearch run on all browser with support JDK 1.1x.
+With aSearch you can define a liste of search engine in a file (group by categ.) and launch your query in there engine.<br>
+It's a free applet ("Freeware") send with all source code. If you add some function in this applet send me your change.
+<P>
+aSearch est une <B>applet de Recherche</B>. Sa taille r&eacute;duite vous permet de l'utiliser facilement (4 ou 7 Ko).
+Elle est totalement parametrable et fonctionne sur tous les navigateurs supportant le JDK 1.1x.<br>
+Avec aSearch vous pouvez definir une liste de moteurs de recherche (groupe par famille) et lancer vos recherche sur ces differents moteurs.<br>
+C'est une applet gratuite ("Freeware") diffus&eacute;e avec son code source. Si vous ajoutez des fonctionnalit&eacute;s sur cette applet 
+renvoyez moi son code source.
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+<A NAME="_2"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>HTML Source</TH></TR>
+<TR><TD class="b0">
+<PRE>
+&lt;applet
+    code="aSearch.class"
+    codebase="./class11"
+    archive="./class11/aSearch.jar"
+    width="250"
+    height="80"&gt;
+    &lt;param name="file"	value="../txt/engines.csv"&gt;
+    &lt;param name="bgcolor"	value="183"&gt;
+    &lt;param name="button_cF"	value="153"&gt;
+    &lt;param name="button_cB"	value="16777113"&gt;
+    &lt;param name="list1_cF"	value="204"&gt;
+    &lt;param name="list1_cB"	value="13434879"&gt;
+    &lt;param name="list2_cF"	value="204"&gt;
+    &lt;param name="list2_cB"	value="13434879"&gt;
+    &lt;param name="text_cF"	value="204"&gt;
+    &lt;param name="text_cB"	value="13434879"&gt;
+&lt;/applet&gt;
+</PRE>
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+<A NAME="_3"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>Parameters</TH></TR>
+<TR><TD class="b0"><CENTER>
+<TABLE BORDER CELLPADDING=3 class="b0">
+	<TR BGCOLOR=F0EFD0><TH>Param name</TH><TH>Type</TH><TH>Description</TH></TR>
+	<TR><TD>file</TD><TD>string</TD><TD>data file with search engine definition</TD></TR>
+	<TR><TD>target</TD><TD>string</TD><TD>target destination for search page</TD></TR>
+	<TR><TD>bgcolor</TD><TD>int</TD><TD>Background color (in decimal)</TD></TR>
+	<TR><TD>button_cF</TD><TD>int</TD><TD>Button font color</TD></TR>
+	<TR><TD>button_cB</TD><TD>int</TD><TD>Button background color</TD></TR>
+	<TR><TD>list1_cF</TD><TD>int</TD><TD>Choice1 font color (groupe liste)</TD></TR>
+	<TR><TD>list1_cB</TD><TD>int</TD><TD>Choice1 background color (groupe liste)</TD></TR>
+	<TR><TD>list2_cF</TD><TD>int</TD><TD>Choice2 font color (engine liste)</TD></TR>
+	<TR><TD>list2_cB</TD><TD>int</TD><TD>Choice2 background color (engine liste)</TD></TR>
+	<TR><TD>text_cF</TD><TD>int</TD><TD>keyword font color</TD></TR>
+	<TR><TD>text_cB</TD><TD>int</TD><TD>keyword background color</TD></TR>
+	<tr><td colspan=2><b>all color is define in decimal</b><br>Use calc.exe to convert this or<br>
+		<a href="http://www.berthou.com/color_code.html" target="_blank">Color_code</a>
+	</td></tr>
+</TABLE>
+</CENTER>
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+
+<A NAME="_4"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>Data file</TH></TR>
+<TR><TD class="b0"><CENTER>
+<TABLE BORDER CELLPADDING=3 class="b0">
+	<TR BGCOLOR=F0EFD0><TH>Cols num</TH><TH>Type</TH><TH>Description</TH><TH>Comments</TH></TR>
+	<TR><TD>1</TD><TD>string</TD><TD>Engine Name</TD><TD>Name of this search engine (Yahoo.com)</TD></TR>
+	<TR><TD>2</TD><TD>string</TD><TD>Engine groupe</TD><TD>Engine's Groupe (French)</TD></TR>
+	<TR><TD>3</TD><TD>string</TD><TD>Engine URL</TD><TD>Url of this engine</TD></TR>
+	<tr><td colspan=2><b>If you build other search engine liste send me this</b></td></tr>
+</TABLE></CENTER>
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+<A NAME="_5"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>History</TH></TR>
+<TR><TD class="b0"><CENTER>
+
+<TABLE BORDER class="b0">
+<TR><TD>1.00</TD><TD>Creation...</TD></TR>
+</TABLE></CENTER>
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+
+<A NAME="_6"><HR><BR>
+<TABLE WIDTH="95%"><TR><TH BGCOLOR=#D0F0FF>Download file</TH></TR>
+<TR><TD class="b0"><CENTER>
+<TABLE WIDTH="95%" class="b0">
+<TR><TD BGCOLOR=F0FEE0>aSearch</TD><TD>
+	<A HREF="./asp/download.asp?id=191">asearch.zip</A> (6Ko)
+	<A HREF="./asp/download.asp?id=1191">(backup)</A>
+</TD></TR>
+</TABLE></CENTER>
+</TD></TR></TABLE>
+<A ALIGN=RIGHT HREF="index.html#_0">Retour Index</A><P>
+
+
+<HR SIZE="3">
+<FONT SIZE=1> 
+<B> Copyright &copy 1996..2000, <A HREF="mailto:rbl@berthou.com">R. BERTHOU.</A> Tous droits r&eacute;serv&eacute;s.</B><BR>
+<I>Derni&egrave;re modification le Dimanche 27 Fevrier 2000 13H48</I>
+</FONT>
+
+</CENTER>
+</BODY>
+</HTML>
